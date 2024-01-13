@@ -15,7 +15,6 @@ def cnt_vowels1(inp_str):
   return(cnt)
 
 
-
 print('Enter a string')
 inp_str = input()
 print('Method 1: Using simple for loop')
