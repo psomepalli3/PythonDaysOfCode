@@ -6,3 +6,5 @@ Participating in the Women Who Code Phython Days Of Code Challenge
 [Day2](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day2.py)
 
 [Day3](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day3.py) |  [Reference](https://www.tutorialspoint.com/iterating-with-python-lambda)
+
+[Day4](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day4.py)
