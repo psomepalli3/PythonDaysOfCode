@@ -10,3 +10,5 @@ Participating in the Women Who Code Phython Days Of Code Challenge
 [Day4](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day4.py)
 
 [Day5](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day5.py)
+
+[Day6}(https://github.com/psomepalli3/PythonDaysOfCode/tree/main)
