@@ -21,7 +21,7 @@ def cnt_vowels_filter(inp_str):
 # Method 4: Using list comprehension    
 ######## Found out to be the most efficient after profiled for time ######
 ####### import cProfile #############
-####### cprofile.run(cnt_vowels_list(inp_str))  ###########
+####### cProfile.run('cnt_vowels_list(inp_str)')  ###########
 def cnt_vowels_list(inp_str):
     return len([x for x in inp_str if x in "aeiouAEIOU"])
 
