@@ -18,3 +18,5 @@ Participating in the Women Who Code Phython Days Of Code Challenge
 [Day 8](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day8.py)
 
 [Day 9](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day9.py)
+
+[Day 10](https://github.com/psomepalli3/PythonDaysOfCode/blob/main/day10.py)
